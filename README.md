@@ -9,6 +9,13 @@
 
 ## About Me 
 ___
+### Who am I...
+A Backend Software developer and a life-long learner who believes that any skill can be learned and mastered so long as sufficient time and effort is dedicated to the task.
+
+A life of service has taught me the importance of teamwork, how vitally important a strong, cohesive team is to any enterprise. Equally important, is the ability to swiftly integrate into an already-established team's workflow and culture. I pride myself in my ability to quickly and efficiently find my place amongst a new team with very little on-boarding in relation to understanding the basics of company culture, workflow, and team synergies. 
+
+Software design is, at its very core, a collaborative, team-centered enterprise. Nothing in tech exists without a team of individuals working together, pushing one another to be their best selves. At a personal level, I love the intellectual challenge software design brings, but my animating force for choosing this field as my career is the need to be a part of and help foster dynamic, inclusive teams, comprised of individuals who are striving for greatness, always looking for that next challenge, that next skill to master. 
+
 ### I’m currently working on ... 
 - A Ruby on Rails webapp called "Urban Fishing"! At a high level, it's an app that will allow a user to search for a body of water, display the types of fish that are stocked in the lake, as well as information on the fish. The app will also display current and forcasted weather, as well as giving the user the option to get directions to the lake. A one-stop shop of sorts for all your angling needs! This projects is an exercise in both front and backend SOA for the Turing School of Software and Design! 
 
