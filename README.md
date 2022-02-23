@@ -1,16 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" width="250"/>
 </div>
 <h3 align="center">
-  hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There!
 </h3>
 
 <br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
 
 ## About Me 
 - 🔭 I’m currently working on ... A Ruby on Rails webapp called "Urban Fishing"! At a high level, it's an app that will allow a user to search for a body of water, display the types of fish that are stocked in the lake, as well as information on the fish. The app will also display current and forcasted weather, as well as giving the user the option to get directions to the lake. A one-stop shop of sorts for all your angling needs! This projects is an exercise in both front and backend SOA for the Turing School of Software and Design! 
