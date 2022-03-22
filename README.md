@@ -17,10 +17,10 @@ A life of service has taught me the importance of teamwork, how vitally importan
 Software design is, at its very core, a collaborative, team-centered enterprise. Nothing in tech exists without a team of individuals working together, pushing one another to be their best selves. At a personal level, I love the intellectual challenge software design brings, but my animating force for choosing this field as my career is the need to be a part of and help foster dynamic, inclusive teams, comprised of individuals who are striving for greatness, always looking for that next challenge, that next skill to master. 
 
 ### I’m currently working on ... 
-A Ruby on Rails webapp called "Urban Fishing"! At a high level, it's an app that will allow a user to search for a body of water, display the types of fish that are stocked in the lake, as well as information on the fish. The app will also display current and forcasted weather, as well as giving the user the option to get directions to the lake. A one-stop shop of sorts for all your angling needs! This projects is an exercise in both front and backend SOA for the Turing School of Software and Design! 
+My Capstone project for the Turing School of Software and Design's Backend Program! 
 
 ### I’m currently learning ... 
-How to consume and integrate multiple API's from thrid party applications, as well as exposing RESTful API endpoints within an applictaion of my own making to share data between the front and backend of the app. 
+Python and GraphQL 
 
 ### Ask me about ... 
 The best hiking tails in Central and Southern Colorado!
