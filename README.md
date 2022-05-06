@@ -17,10 +17,10 @@ A life of service has taught me the importance of teamwork, how vitally importan
 Software design is, at its very core, a collaborative, team-centered enterprise. Nothing in tech exists without a team of individuals working together, pushing one another to be their best selves. At a personal level, I love the intellectual challenge software design brings, but my animating force for choosing this field as my career is the need to be a part of and help foster dynamic, inclusive teams, comprised of individuals who are striving for greatness, always looking for that next challenge, that next skill to master. 
 
 ### I’m currently working on ... 
-My Capstone project for the Turing School of Software and Design's Backend Program! 
+"My Little Esty Shop", a two-part mock e-commerce platform. Backend, Ruby on Rails. Frontend, Vue.js
 
 ### I’m currently learning ... 
-Python and GraphQL 
+JavaScript and Vue.js 
 
 ### Ask me about ... 
 The best hiking tails in Central and Southern Colorado!
