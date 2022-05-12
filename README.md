@@ -26,7 +26,7 @@ JavaScript and Vue.js
 The best hiking tails in Central and Southern Colorado!
 
 ### How to reach me: ... 
-<a href="https://www.linkedin.com/in/emielke76"><img src="https://img.shields.io/badge/LinkedIn-emielke76-blue" alt="LinkedIn Badge"></a> <a href="mailto:emielke76@gmail.com"><img src="https://img.shields.io/badge/Gmail-emielke76%40gmail.com-red" alt="Gmail Badge"></a>
+<a href="https://www.linkedin.com/in/emielke76"><img src="https://img.shields.io/badge/LinkedIn-emielke76-blue" alt="LinkedIn Badge"></a> <a href="mailto:ericmielke76@gmail.com"><img src="https://img.shields.io/badge/Gmail-emielke76%40gmail.com-red" alt="Gmail Badge"></a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
