@@ -10,6 +10,7 @@
 ## About Me 
 ___
 ### Who am I...
+
 A Backend Software Engineer and a life-long learner who believes that any skill can be learned and mastered so long as sufficient time and effort is dedicated to the task.
 
 A life of service has taught me the importance of teamwork, how vitally important a strong, cohesive team is to any enterprise. Equally important, is the ability to swiftly integrate into an already-established team's workflow and culture. I pride myself in my ability to quickly and efficiently find my place amongst a new team with very little on-boarding in relation to understanding the basics of company culture, workflow, and team synergies. 
@@ -17,10 +18,10 @@ A life of service has taught me the importance of teamwork, how vitally importan
 Software design is, at its very core, a collaborative, team-centered enterprise. Nothing in tech exists without a team of individuals working together, pushing one another to be their best selves. At a personal level, I love the intellectual challenge software design brings, but my animating force for choosing this field as my career is the need to be a part of and help foster dynamic, inclusive teams, comprised of individuals who are striving for greatness, always looking for that next challenge, that next skill to master. 
 
 ### I’m currently working on ... 
-"My Little Esty Shop", a two-part mock e-commerce platform. Backend, Ruby on Rails. Frontend, Vue.js
+Getting my Platform Developer 1 certificaiton for Salesforce!
 
 ### I’m currently learning ... 
-JavaScript and Vue.js 
+Apex and Lightning Web Components 
 
 ### Ask me about ... 
 The best hiking tails in Central and Southern Colorado!
