@@ -11,11 +11,11 @@
 ___
 ### Who am I...
 
-A Backend Software Engineer and a life-long learner who believes that any skill can be learned and mastered so long as sufficient time and effort is dedicated to the task.
+I consider myself a ‘forever student,’ and find the best way to learn new skills is to jump into projects headfirst, without fear of asking for help along the way. I thrive in collaborative environments, and actively seek opportunities to teach/mentor where I can.
 
-A life of service has taught me the importance of teamwork, how vitally important a strong, cohesive team is to any enterprise. Equally important, is the ability to swiftly integrate into an already-established team's workflow and culture. I pride myself in my ability to quickly and efficiently find my place amongst a new team with very little on-boarding in relation to understanding the basics of company culture, workflow, and team synergies. 
+Before making the transition into tech I had a long and successful career of management within the Retail and Hospitality fields, with brief stint in municipal utilities work. I graduated from the Turing School of Software and Design in April of '22 with a certification in Backend Engineering. I excel in unit and integration testing, as well as API and Database design. In my spare time I like to cook, hike, climb whatever mountains I can, and spend time with my wife and daughter. 
 
-Software design is, at its very core, a collaborative, team-centered enterprise. Nothing in tech exists without a team of individuals working together, pushing one another to be their best selves. At a personal level, I love the intellectual challenge software design brings, but my animating force for choosing this field as my career is the need to be a part of and help foster dynamic, inclusive teams, comprised of individuals who are striving for greatness, always looking for that next challenge, that next skill to master. 
+Currently, I am an Associate Consultant working out of the Slalom Denver office, within the CRM/Salesforce practice.  
 
 ### I’m currently working on ... 
 Getting my Platform Developer 1 certificaiton for Salesforce!
