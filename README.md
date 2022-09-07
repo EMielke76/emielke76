@@ -15,7 +15,7 @@ I consider myself a ‘forever student,’ and find the best way to learn new sk
 
 Before making the transition into tech I had a long and successful career of management within the Retail and Hospitality fields, with brief stint in municipal utilities work. I graduated from the Turing School of Software and Design in April of '22 with a certification in Backend Engineering. I excel in unit and integration testing, as well as API and Database design. In my spare time I like to cook, hike, climb whatever mountains I can, and spend time with my wife and daughter. 
 
-Currently, I am an Associate Consultant working out of the Slalom Denver office, within the CRM/Salesforce practice.  
+Currently, I am an Associate Consultant at Slalom working out of the Denver office, within the CRM/Salesforce practice.  
 
 ### I’m currently working on ... 
 Getting my Platform Developer 1 certificaiton for Salesforce!
